@@ -9,7 +9,7 @@
 
 using namespace std;
 
-int main()
+int main(int argc, char * argv)
 {
 	std::string myinput;
 	output_format("Hello and welcome to C++ battleship.\nType --load <filename> to load a file,"
